@@ -81,7 +81,7 @@ try{jQuery.noConflict();}catch(e){};
 						</li>
 												<li>
 							<a class="email" target="_blank"
-							   href="mailto:chri&#115;&#64;c&#104;&#114;iskt&#104;om&#97;s&#46;&#99;&#111;m">
+							   href="mailto:&#99;&#104;&#114;&#105;&#115;&#64;&#99;h&#114;isktho&#109;a&#115;.&#99;o&#109;">
 								<i class="fas fa-envelope"></i>
 								<span class="screen-reader-text">email</span>
 							</a>
